@@ -549,7 +549,6 @@ public int findBottomLeftValue(TreeNode root) {
 - 后序遍历顺序：[4 5 2 6 3 1]
 
 层次遍历使用 BFS 实现，利用的就是 BFS 一层一层遍历的特性；而前序、中序、后序遍历利用了 DFS 实现。
-
 前序、中序、后序遍只是在对节点访问的顺序有一点不同，其它都相同。
 
 ① 前序
